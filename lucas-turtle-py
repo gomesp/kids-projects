@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# From: https://projects.raspberrypi.org/en/projects/turtle-race
+
 from turtle import *
 from random import randint
 
